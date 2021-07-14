@@ -16,4 +16,28 @@ way to use em, by now they are still hiden :D and im only using the 17 buttons f
 and left the first button as a kind of Shift button to select a B mode for the channel buttons and control de octave 
 up/down as to use the lasting btns as cc maybe...? still working on it.
 
+ill quote here the projects im based to build my frankencode. used parts from here and there to get the desired result
+
+I have used part of the evan kale cheap midi keyboard, strongly recommend you to check the full instructable, pretty educational. unfortunately i was not able to find it anymore....evan kale content is always up and down, idk why? but google it you may find it :
+https://github.com/evankale/ArduinoMidiPiano
+
+
+also used this project to refference and build my own, i strongly suggest you to check this out. he even has a second part adding pressure based velocity and aftertouch and a third part adding usb midi support:
+
+http://www.codetinkerhack.com/2012/11/how-to-turn-piano-toy-into-midi.html?m=1
+
+
+last but not least used this code from a german site where i did not understood anything but ended figuring out the code for joystick workarround
+
+//edit: i was unable to find the site where i found the joystick code :( but there are still some parts of the code that reffers to that project, so if you know the link please let me know so that i can quote it here :D
+
+
+and thats it , those where nearly all the refferences i used to build this project. i would like to do a spetioal metion to the Notes And Volts youtube channel where i learnt a lot about midi messages and midi stuff. highly recomended.
+
+
+
 by now ill leave here the code as it is now, as i mentioned before it is pretty much ready to upload, connect and play with the new instrument.
+
+
+
+Visit and follow my Instagram pages to support and check demos, pictures and other media related to my projects that can not be posted here : @desgeneradotv (instagram.com/desgeneradotv) and @dsgnloopz (instagram.com/dsgnloopz)  
