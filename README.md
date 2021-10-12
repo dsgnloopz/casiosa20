@@ -1,4 +1,4 @@
-# casiosa20
+# casiosa20 Midi Mod
 Hacked Casio SA 20 into a midi Keyboard
 
 
